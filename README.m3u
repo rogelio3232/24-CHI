@@ -1,0 +1,156 @@
+#EXTM3U
+#EXTINF:-1 group-title="-",A&E HD
+http://186.10.245.76:3010/play/aehd
+#EXTINF:-1 group-title="-",AMC HD
+http://186.10.245.76:3010/play/a056
+#EXTINF:-1 group-title="-",AXN HD
+http://186.10.245.76:3010/play/a06f
+#EXTINF:-1 group-title="-" tvg-id="animalplanethd",Animal Planet HD
+http://186.10.245.76:3010/play/animalplanethd
+#EXTINF:-1 group-title="-",BIO-BIO TV
+http://186.10.245.76:3010/play/a0jd
+#EXTINF:-1 group-title="-",CHV HD
+http://186.10.245.76:3010/play/a08n
+#EXTINF:-1 group-title="-",CNN Chile HD
+http://186.10.245.76:3010/play/cnnchilehd
+#EXTINF:-1 group-title="-",Canal 13 HD
+http://186.10.245.76:3010/play/a07a
+#EXTINF:-1 group-title="-",Canal 24 Horas HD
+http://186.10.245.76:3010/play/a07d
+#EXTINF:-1 group-title="-",Cartoon Network HD
+http://186.10.245.76:3010/play/a05i
+#EXTINF:-1 group-title="-",Cinecanal HD
+http://186.10.245.76:3010/play/a05c
+#EXTINF:-1 group-title="-" tvg-id="CinecanalHD",Cinemax HD
+http://186.10.245.76:3010/play/cinemaxhd
+#EXTINF:-1 group-title="-",Comedy Central HD
+http://186.10.245.76:3010/play/comedycentralhd
+#EXTINF:-1 group-title="-",DHE HD
+http://186.10.245.76:3010/play/a0dz
+#EXTINF:-1 group-title="-",DISCOVERY ID
+http://186.10.245.76:3010/play/idhd
+#EXTINF:-1 group-title="-",DW Espanol HD
+http://186.10.245.76:3010/play/a0k6
+#EXTINF:-1 group-title="-",Discovery H&H HD
+http://186.10.245.76:3010/play/a0al
+#EXTINF:-1 group-title="-",Discovery HD
+http://186.10.245.76:3010/play/a0e1
+#EXTINF:-1 group-title="-",Discovery Kids HD
+http://186.10.245.76:3010/play/a0ak
+#EXTINF:-1 group-title="-",Discovery Theater HD
+http://186.10.245.76:3010/play/a0am
+#EXTINF:-1 group-title="-",Discovery World HD
+http://186.10.245.76:3010/play/a0l1
+#EXTINF:-1 group-title="-",Disney HD
+http://186.10.245.76:3010/play/disneyhd
+#EXTINF:-1 group-title="-",Disney HD trans
+http://186.10.245.76:3010/play/a0in
+#EXTINF:-1 group-title="-",EL GOURMET TRANS
+http://186.10.245.76:3010/play/a0fw
+#EXTINF:-1 group-title="-",ESPN 2 HD
+http://186.10.245.76:3010/play/a0ax
+#EXTINF:-1 group-title="-",ESPN 3 HD
+http://186.10.245.76:3010/play/espn3hd
+#EXTINF:-1 group-title="-",ESPN HD
+http://186.10.245.76:3010/play/a06j
+#EXTINF:-1 group-title="-",EWTN
+http://186.10.245.76:3010/play/a0ji
+#EXTINF:-1 group-title="-",El Gourmet HD
+http://186.10.245.76:3010/play/a074
+#EXTINF:-1 group-title="-",Enlace
+http://186.10.245.76:3010/play/a0iy
+#EXTINF:-1 group-title="-",FOOD NETWORK
+http://186.10.245.76:3010/play/a0g6
+#EXTINF:-1 group-title="-",FOX Sports 2 HD
+http://186.10.245.76:3010/play/a0at
+#EXTINF:-1 group-title="-",FX HD
+http://186.10.245.76:3010/play/a0aw
+#EXTINF:-1 group-title="-",Fox Sports 1 HD
+http://186.10.245.76:3010/play/a07k
+#EXTINF:-1 group-title="-",Fox Sports 3 HD
+http://186.10.245.76:3010/play/foxsports3hd
+#EXTINF:-1 group-title="-",GOLDEN TRANS
+http://186.10.245.76:3010/play/a0ll
+#EXTINF:-1 group-title="-",Golden HD
+http://186.10.245.76:3010/play/a0l4
+#EXTINF:-1 group-title="-",HBO 2 HD
+http://186.10.245.76:3010/play/a0k0
+#EXTINF:-1 group-title="-",HBO Family HD
+http://186.10.245.76:3010/play/a0k3
+#EXTINF:-1 group-title="-",HBO HD
+http://186.10.245.76:3010/play/a08o
+#EXTINF:-1 group-title="-",HBO POP HD
+http://186.10.245.76:3010/play/a0g8
+#EXTINF:-1 group-title="-",HBO POP TRANS
+http://186.10.245.76:3010/play/a0lm
+#EXTINF:-1 group-title="-",History 2 HD
+http://186.10.245.76:3010/play/a0e4
+#EXTINF:-1 group-title="-",History Channel HD
+http://186.10.245.76:3010/play/a06b
+#EXTINF:-1 group-title="-",Kanal D Drama HD
+http://186.10.245.76:3010/play/a0kz
+#EXTINF:-1 group-title="-",LA RED TRANS
+http://186.10.245.76:3010/play/a0g4
+#EXTINF:-1 group-title="-",La Red HD
+http://186.10.245.76:3010/play/laredhd
+#EXTINF:-1 group-title="-",MEGA HD
+http://186.10.245.76:3010/play/a08g
+#EXTINF:-1 group-title="-",MTV HD
+http://186.10.245.76:3010/play/a0jg
+#EXTINF:-1 group-title="-",MTV LIVE HD
+http://186.10.245.76:3010/play/a0k1
+#EXTINF:-1 group-title="-",NTV TRANS
+http://186.10.245.76:3010/play/a0if
+#EXTINF:-1 group-title="-",NTV TV! Educa Chile
+http://186.10.245.76:3010/play/a057
+#EXTINF:-1 group-title="-",Nat Geo HD
+http://186.10.245.76:3010/play/a05a
+#EXTINF:-1 group-title="-",Nickelodeon
+http://186.10.245.76:3010/play/a0it
+#EXTINF:-1 group-title="-",NubleVision
+http://186.10.245.76:3010/play/a0li
+#EXTINF:-1 group-title="-",PASIONES TRANS
+http://186.10.245.76:3010/play/a0g0
+#EXTINF:-1 group-title="-",Paramount HD
+http://186.10.245.76:3010/play/a0l0
+#EXTINF:-1 group-title="-",Pasiones HD
+http://186.10.245.76:3010/play/pasioneshd
+#EXTINF:-1 group-title="-",STAR HD
+http://186.10.245.76:3010/play/a0ao
+#EXTINF:-1 group-title="-",SUN TRANS
+http://186.10.245.76:3010/play/a0g2
+#EXTINF:-1 group-title="-",Sony HD
+http://186.10.245.76:3010/play/a06d
+#EXTINF:-1 group-title="-",Space HD
+http://186.10.245.76:3010/play/a06g
+#EXTINF:-1 group-title="-",Studio Universal HD
+http://186.10.245.76:3010/play/studiouniversalhd
+#EXTINF:-1 group-title="-",Sun Channel HD
+http://186.10.245.76:3010/play/a0aj
+#EXTINF:-1 group-title="-",SyFy
+http://186.10.245.76:3010/play/a0jf
+#EXTINF:-1 group-title="-",TCM
+http://186.10.245.76:3010/play/a0ix
+#EXTINF:-1 group-title="-",TELECANAL 1
+http://186.10.245.76:3010/play/a0ks
+#EXTINF:-1 group-title="-",TELEVIDA CHILLAN
+http://186.10.245.76:3010/play/a0je
+#EXTINF:-1 group-title="-",TNT HD
+http://186.10.245.76:3010/play/a06w
+#EXTINF:-1 group-title="-",TNT SPORTS HD
+http://186.10.245.76:3010/play/cdfhd
+#EXTINF:-1 group-title="-",TNT Series HD
+http://186.10.245.76:3010/play/a0bf
+#EXTINF:-1 group-title="-",TRUTV HD
+http://186.10.245.76:3010/play/a073
+#EXTINF:-1 group-title="-",TV+ HD FREE
+http://186.10.245.76:3010/play/a058
+#EXTINF:-1 group-title="-",TVN HD
+http://186.10.245.76:3010/play/a06r
+#EXTINF:-1 group-title="-",UNIVERSAL CHANNEL HD
+http://186.10.245.76:3010/play/a0ap
+#EXTINF:-1 group-title="-",Warner Channel HD
+http://186.10.245.76:3010/play/a06e
+#EXTINF:-1 group-title="-",Zona Latina
+http://186.10.245.76:3010/play/a0iw
+
